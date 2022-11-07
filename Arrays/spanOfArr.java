@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 
 public class Main{
-
+// Span is defined as difference of maximum value and minimum value.
 public static void main(String[] args) throws Exception {
     // write your code here
     Scanner scn= new Scanner(System.in);
